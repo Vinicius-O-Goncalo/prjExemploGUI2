@@ -1,3 +1,4 @@
+## prjExemploGUI2
 Primeira aplicação gráfica (**Java Swing**) da série: um formulário simples de **cálculo do valor de uma compra** a partir do preço unitário e da quantidade vendida.
 
 ## Conceitos abordados
